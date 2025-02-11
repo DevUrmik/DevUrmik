@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
 
 
 ## 🚀 About Me
