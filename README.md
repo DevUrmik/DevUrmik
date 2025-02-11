@@ -1,24 +1,5 @@
 # Hi there, I'm Urmik 👋
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #1e1e2f;
-    color: #ffffff;
-  }
-  h1, h2, h3 {
-    color: #ffcc00;
-  }
-  a {
-    color: #00c4ff;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-    color: #ff6600;
-  }
-</style>
-
 ## 🚀 About Me
 I'm a passionate full-stack developer and tech enthusiast, constantly exploring new technologies and building impactful projects. I specialize in web development, backend systems, and AI-powered applications.
 
@@ -38,10 +19,23 @@ A hackathon project focused on **sign language conversion**, making communicatio
 A **hand-controlled snake game** built using **Python, OpenCV, and czone** as my first Python project.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Convex DB, MongoDB
-- **Tools & Platforms:** Git, Docker, Stripe, OpenCV, Clerk, Stream API
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+</p>
+
+## 📫 Get in Touch
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [Your GitHub](https://github.com/yourusername)
+- Email: your.email@example.com
 
 ⚡ Always open to collaboration and new opportunities!
 
