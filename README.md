@@ -29,13 +29,11 @@ A **hand-controlled snake game** built using **Python, OpenCV, and czone** as my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MediaPipe_logo.svg/1024px-MediaPipe_logo.svg.png" width="50" height="50" alt="MediaPipe"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow"/>
 </p>
 
-## 📫 Get in Touch
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ⚡ Always open to collaboration and new opportunities!
 
