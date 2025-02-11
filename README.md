@@ -3,18 +3,30 @@
 <style>
   body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
   }
   h1, h2, h3 {
-    color: #007acc;
+    color: #ffcc00;
   }
   a {
     color: #ff6600;
     text-decoration: none;
+    transition: color 0.3s ease-in-out;
   }
   a:hover {
+    color: #ffffff;
     text-decoration: underline;
+  }
+  .tech-stack img {
+    width: 50px;
+    margin: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  .tech-stack img:hover {
+    transform: scale(1.2);
   }
 </style>
 
@@ -34,13 +46,20 @@ A hackathon project focused on **sign language conversion**, making communicatio
 A **hand-controlled snake game** built using **Python, OpenCV, and czone** as my first Python project.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Convex DB, MongoDB
-- **Tools & Platforms:** Git, Docker, Stripe, OpenCV, Clerk, Stream API
+<div class="tech-stack">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
+</div>
 
 ⚡ Always open to collaboration and new opportunities!
-
 
 
 <!--
