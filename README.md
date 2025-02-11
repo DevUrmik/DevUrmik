@@ -1,17 +1,11 @@
-<!-- <div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 10px;">
 
 # Hi there, I'm Urmik 👋
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 
-</div> -->
-<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 10px; display: flex; align-items: center; justify-content: center; gap: 15px;">
-
-# Hi there, I'm Urmik 👋
-
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400px">
-
 </div>
+
 
 ## 🚀 About Me
 I'm a passionate full-stack developer and tech enthusiast, constantly exploring new technologies and building impactful projects. I specialize in web development, backend systems, and AI-powered applications.
