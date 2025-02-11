@@ -6,9 +6,6 @@ I'm a passionate full-stack developer and tech enthusiast, constantly exploring 
 ## 💡 Projects
 Here are some of my notable projects:
 
-### 🔹 IntraVia (Capstone Project)
-An interview video meeting platform built with **Next.js, Clerk, Convex DB, and Stream** for seamless video calls.
-
 ### 🔹 MedHealth
 A doctor appointment scheduling web app using **MERN, Vite, Stripe, and News API** for health-related news.
 
