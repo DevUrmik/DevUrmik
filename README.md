@@ -1,5 +1,10 @@
 # Hi there, I'm Urmik 👋
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+
+
 ## 🚀 About Me
 I'm a passionate full-stack developer and tech enthusiast, constantly exploring new technologies and building impactful projects. I specialize in web development, backend systems, and AI-powered applications.
 
@@ -29,6 +34,10 @@ A **hand-controlled snake game** built using **Python, OpenCV, and czone** as my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow"/>
 </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react)
 
 
 ⚡ Always open to collaboration and new opportunities!
