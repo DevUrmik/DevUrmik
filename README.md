@@ -1,55 +1,81 @@
-<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 10px;">
+<!-- Header -->
+<h1 align="center">Hey there, I'm Urmik 👋</h1>
 
-# Hi there, I'm Urmik 👋
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
-
+<!-- Intro Section -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <p align="left">
+          I'm a <strong>Full Stack Developer</strong> passionate about building end-to-end solutions that make life easier, smarter, and more connected. <br><br>
+          I love working with <strong>MERN, Next.js, AI tools, and Python</strong> to create projects that bridge creativity and functionality.<br><br>
+          Always exploring new tech and collaborating on exciting ideas 🚀
+        </p>
+      </td>
+      <td width="50%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%">
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
 
-## 🚀 About Me
-I'm a passionate full-stack developer and tech enthusiast, constantly exploring new technologies and building impactful projects. I specialize in web development, backend systems, and AI-powered applications.
+## 🚀 Projects
 
-## 💡 Projects
-Here are some of my notable projects:
+### 🔹 MedHealth  
+**MERN + Vite + Stripe + News API**  
+Doctor appointment web app with real-time scheduling and health news.
 
-### 🔹 MedHealth
-A doctor appointment scheduling web app using **MERN, Vite, Stripe, and News API** for health-related news.
+### 🔹 SignSense  
+**Python + OpenCV + MediaPipe**  
+A sign language converter app for inclusive communication (Hackathon project).
 
-### 🔹 SignSense
-A hackathon project focused on **sign language conversion**, making communication more accessible.
+### 🔹 Trailblazer  
+**Python + OpenCV + Hand Tracking**  
+A computer vision-based snake game controlled by hand gestures.
 
-### 🔹 Trailblazer
-A **hand-controlled snake game** built using **Python, OpenCV, and czone** as my first Python project.
+---
 
 ## 🛠️ Tech Stack
-<p align="center" style="background-color: #2c2c3e; padding: 15px; border-radius: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow"/>
-</p>
 
-⚡ Always open to collaboration and new opportunities!
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" />
+</div>
 
-<!--
-**DevUrmik/DevUrmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevUrmik&theme=github_dark" width="80%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevUrmik&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUrmik&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: **[your-email@example.com]**  
+- 🌐 Portfolio: **[your-portfolio-link.com]**  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 🐙 GitHub: [DevUrmik](https://github.com/DevUrmik)
+
+---
+
+<div align="center">
+  <strong>“First, solve the problem. Then, write the code.”</strong>  
+  <br>– John Johnson
+</div>
